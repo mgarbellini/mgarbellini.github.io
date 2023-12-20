@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mgarbellini.github.io/al-folio/sitemap.xml
+Sitemap: https://mgarbellini.github.io/sitemap.xml
